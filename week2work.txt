@@ -1,0 +1,2 @@
+
+Merhabalar, bir önceki dersimizde versiyon kontrol sistemlerinin temel özellikleri hakkında bilgi sahibi olmuştuk. Bu ve bundan sonraki derslerimizde git‘e odaklanacağız. Bu dersimizde aynı zamanda yerel bilgisayarımıza git kurulumu yapacağız.
